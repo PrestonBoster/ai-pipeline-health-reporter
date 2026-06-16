@@ -1,0 +1,251 @@
+Opportunity_ID,Company,Industry,Region,Stage,Amount,Source,Rep,Created_Date,Close_Date,Days_Open,Closed_Won,Next_Step
+OPP-0001,Queen City Dental 1,Healthcare,West,Proposal,6000,Organic Search,Preston,2026-03-12,,34,No,Needs budget approval
+OPP-0002,Northstar Manufacturing 2,IT Services,West,Prospecting,14500,Cold Call,Maya,2026-02-25,,32,No,Confirm decision timeline
+OPP-0003,Apex Remodeling 3,Finance,Northeast,Demo Scheduled,38500,Web Form,Sarah,2026-01-02,,23,No,Demo completed
+OPP-0004,Elite HVAC 4,Home Services,West,Prospecting,51500,Partner,Preston,2026-01-25,,48,No,Needs budget approval
+OPP-0005,Smith Plumbing 5,Construction,Northeast,Prospecting,40500,Partner,John,2026-06-10,,82,No,Send proposal
+OPP-0006,Prime Medical Billing 6,Legal,Midwest,Closed Won,15500,Event,John,2026-04-08,2026-05-16,38,Yes,Confirm decision timeline
+OPP-0007,Northstar Manufacturing 7,IT Services,Northeast,Negotiation,12000,Google Ads,Maya,2026-06-05,,84,No,Needs budget approval
+OPP-0008,Elite HVAC 8,IT Services,Southeast,Discovery,74000,Partner,John,2026-02-26,,90,No,Needs budget approval
+OPP-0009,Ironclad Security 9,Home Services,Northeast,Negotiation,30000,Partner,John,2026-05-26,,94,No,Follow up on pricing
+OPP-0010,Lakeview Insurance 10,Manufacturing,Midwest,Discovery,74500,Web Form,Sarah,2026-05-18,,36,No,Follow up on pricing
+OPP-0011,Metro IT Services 11,Manufacturing,West,Proposal,14500,Google Ads,Preston,2026-01-13,,17,No,Needs budget approval
+OPP-0012,Blue Ridge SaaS 12,Finance,Midwest,Demo Scheduled,62500,Cold Call,Preston,2026-05-16,,35,No,Legal review
+OPP-0013,BrightPath Finance 13,Legal,West,Demo Scheduled,61000,LinkedIn,Preston,2026-01-01,,95,No,Legal review
+OPP-0014,Prime Medical Billing 14,Legal,West,Closed Won,67500,Google Ads,Chris,2026-06-05,2026-07-03,28,Yes,Book discovery call
+OPP-0015,Carolina Solar 15,IT Services,Southeast,Proposal,65500,Partner,Sarah,2026-01-05,,17,No,Send proposal
+OPP-0016,Queen City Dental 16,Home Services,West,Prospecting,65000,Google Ads,Sarah,2026-01-18,,71,No,Legal review
+OPP-0017,Carolina Solar 17,Manufacturing,Midwest,Proposal,57000,Organic Search,Maya,2026-02-24,,72,No,No response yet
+OPP-0018,Lakeview Insurance 18,IT Services,West,Prospecting,31500,Cold Call,Sarah,2026-01-17,,46,No,Book discovery call
+OPP-0019,Apex Remodeling 19,Healthcare,West,Prospecting,10500,Cold Call,Sarah,2026-02-28,,11,No,Legal review
+OPP-0020,Piedmont Flooring 20,Home Services,Southwest,Negotiation,30000,Event,Sarah,2026-05-19,,19,No,Send proposal
+OPP-0021,Redline Construction 21,Construction,Southeast,Prospecting,58000,Web Form,Preston,2026-04-01,,57,No,Needs budget approval
+OPP-0022,Northstar Manufacturing 22,Home Services,Northeast,Negotiation,16500,Organic Search,Maya,2026-03-05,,27,No,Follow up on pricing
+OPP-0023,ABC Roofing 23,Healthcare,Northeast,Closed Won,34500,Referral,Sarah,2026-01-20,,59,Yes,Needs budget approval
+OPP-0024,Ironclad Security 24,Construction,Southwest,Demo Scheduled,30000,Google Ads,John,2026-04-13,,10,No,No response yet
+OPP-0025,Carolina Solar 25,IT Services,Southeast,Discovery,74000,Organic Search,Chris,2026-05-05,,22,No,Book discovery call
+OPP-0026,BrightPath Finance 26,Legal,Southeast,Negotiation,10000,Event,Chris,2026-01-13,,77,No,Send proposal
+OPP-0027,Ironclad Security 27,Healthcare,West,Closed Won,11500,Organic Search,Sarah,2026-06-02,2026-06-13,11,Yes,Book discovery call
+OPP-0028,Summit Logistics 28,Real Estate,Northeast,Proposal,56500,Partner,John,2026-05-30,,75,No,Needs budget approval
+OPP-0029,Lakeview Insurance 29,Healthcare,Southeast,Closed Won,41000,Referral,Chris,2026-04-28,,43,Yes,Confirm decision timeline
+OPP-0030,Prime Medical Billing 30,Finance,Northeast,Proposal,19500,Organic Search,Maya,2026-03-31,,11,No,Legal review
+OPP-0031,Blue Ridge SaaS 31,Legal,Midwest,Proposal,70500,LinkedIn,Preston,2026-01-03,,88,No,Send proposal
+OPP-0032,Apex Remodeling 32,IT Services,Midwest,Negotiation,22500,Organic Search,Chris,2026-03-11,,39,No,No response yet
+OPP-0033,Oak Street Legal 33,Construction,Southeast,Discovery,9500,Web Form,John,2026-01-24,,84,No,Follow up on pricing
+OPP-0034,Northstar Manufacturing 34,Construction,Southeast,Proposal,36500,Web Form,Preston,2026-02-11,,59,No,Follow up on pricing
+OPP-0035,Greenway Landscaping 35,Legal,Southeast,Proposal,50000,Google Ads,John,2026-05-30,,73,No,Demo completed
+OPP-0036,Blue Ridge SaaS 36,Real Estate,West,Closed Won,8000,Organic Search,Maya,2026-04-02,2026-05-01,29,Yes,Follow up on pricing
+OPP-0037,ABC Roofing 37,Legal,Midwest,Closed Lost,33000,Web Form,Maya,2026-02-11,2026-03-08,25,No,Confirm decision timeline
+OPP-0038,Piedmont Flooring 38,IT Services,Southwest,Discovery,16500,Event,John,2026-04-08,,7,No,Legal review
+OPP-0039,Ironclad Security 39,Real Estate,Midwest,Closed Won,32000,Organic Search,Preston,2026-02-27,2026-03-05,6,Yes,Legal review
+OPP-0040,Blue Ridge SaaS 40,Finance,Northeast,Discovery,68000,Partner,Chris,2026-04-13,,89,No,Legal review
+OPP-0041,Crown Auto Group 41,Healthcare,Southwest,Prospecting,58500,Web Form,Chris,2026-03-30,,43,No,Confirm decision timeline
+OPP-0042,Prime Medical Billing 42,Manufacturing,Southeast,Discovery,58500,Organic Search,John,2026-01-01,,69,No,Demo completed
+OPP-0043,Greenway Landscaping 43,Real Estate,Southwest,Negotiation,18500,LinkedIn,John,2026-03-18,,67,No,Follow up on pricing
+OPP-0044,Ironclad Security 44,Construction,Midwest,Discovery,51500,LinkedIn,John,2026-02-14,,81,No,Confirm decision timeline
+OPP-0045,Summit Logistics 45,Home Services,Northeast,Demo Scheduled,44000,Event,Preston,2026-04-30,,59,No,Legal review
+OPP-0046,Piedmont Flooring 46,IT Services,Northeast,Proposal,45500,LinkedIn,Preston,2026-01-24,,33,No,Book discovery call
+OPP-0047,Greenway Landscaping 47,IT Services,Southwest,Discovery,63500,Event,Maya,2026-06-06,,12,No,Needs budget approval
+OPP-0048,Metro IT Services 48,Home Services,Southeast,Discovery,3500,Organic Search,Chris,2026-01-28,,57,No,Confirm decision timeline
+OPP-0049,BrightPath Finance 49,Real Estate,Southwest,Closed Lost,18500,Event,Chris,2026-04-27,2026-05-17,20,No,Needs budget approval
+OPP-0050,Redline Construction 50,Finance,Northeast,Closed Won,73000,Event,John,2026-04-25,2026-05-18,23,Yes,No response yet
+OPP-0051,Piedmont Flooring 51,Finance,Midwest,Proposal,38000,LinkedIn,John,2026-04-23,,12,No,Send proposal
+OPP-0052,Summit Logistics 52,Healthcare,Southwest,Prospecting,32500,Google Ads,Maya,2026-04-09,,91,No,Demo completed
+OPP-0053,Ironclad Security 53,Construction,West,Proposal,56000,Web Form,Maya,2026-01-16,,29,No,No response yet
+OPP-0054,Northstar Manufacturing 54,IT Services,Southwest,Prospecting,48000,Web Form,Sarah,2026-03-18,,52,No,Legal review
+OPP-0055,Metro IT Services 55,Home Services,Northeast,Demo Scheduled,6500,Web Form,Chris,2026-04-10,,46,No,Book discovery call
+OPP-0056,Queen City Dental 56,Home Services,Northeast,Closed Lost,6000,Web Form,Preston,2026-01-22,2026-04-17,85,No,Legal review
+OPP-0057,Ironclad Security 57,Finance,Southwest,Demo Scheduled,30000,Partner,John,2026-04-27,,44,No,Send proposal
+OPP-0058,Smith Plumbing 58,Construction,Southeast,Demo Scheduled,72000,Organic Search,Sarah,2026-01-14,,47,No,Confirm decision timeline
+OPP-0059,Blue Ridge SaaS 59,IT Services,Southwest,Closed Won,22500,Event,John,2026-03-03,2026-03-22,19,Yes,Demo completed
+OPP-0060,Carolina Solar 60,Manufacturing,Southwest,Prospecting,17500,Referral,Sarah,2026-02-11,,42,No,Send proposal
+OPP-0061,Crown Auto Group 61,Healthcare,West,Proposal,34000,LinkedIn,Preston,2026-01-27,,92,No,Demo completed
+OPP-0062,Cedar Creek Realty 62,Healthcare,Southwest,Negotiation,50000,Partner,John,2026-01-18,,67,No,No response yet
+OPP-0063,Crown Auto Group 63,Home Services,Southwest,Negotiation,58500,LinkedIn,Maya,2026-02-15,,69,No,Legal review
+OPP-0064,Piedmont Flooring 64,Home Services,West,Discovery,34000,Event,Chris,2026-01-23,,38,No,Needs budget approval
+OPP-0065,Summit Logistics 65,Real Estate,Midwest,Discovery,66000,Event,John,2026-03-25,,26,No,Legal review
+OPP-0066,Smith Plumbing 66,IT Services,Southwest,Closed Won,38000,Organic Search,Maya,2026-05-23,2026-05-27,4,Yes,Confirm decision timeline
+OPP-0067,Ironclad Security 67,IT Services,Midwest,Negotiation,65500,Referral,Chris,2026-04-25,,5,No,Demo completed
+OPP-0068,Redline Construction 68,Finance,Midwest,Demo Scheduled,70500,Partner,John,2026-03-30,,57,No,Confirm decision timeline
+OPP-0069,Summit Logistics 69,IT Services,Southwest,Prospecting,27500,Google Ads,John,2026-03-22,,18,No,Legal review
+OPP-0070,Northstar Manufacturing 70,Legal,Midwest,Proposal,27500,Partner,Preston,2026-03-17,2026-04-18,32,No,Book discovery call
+OPP-0071,Lakeview Insurance 71,Finance,Southwest,Proposal,19000,Referral,Maya,2026-06-13,,65,No,No response yet
+OPP-0072,Ironclad Security 72,Home Services,Southeast,Discovery,9500,Referral,Chris,2026-03-06,,64,No,Book discovery call
+OPP-0073,Greenway Landscaping 73,IT Services,West,Prospecting,41500,Referral,Maya,2026-01-22,,34,No,No response yet
+OPP-0074,Lakeview Insurance 74,Construction,West,Closed Lost,41000,LinkedIn,Preston,2026-05-31,2026-07-27,57,No,Confirm decision timeline
+OPP-0075,Metro IT Services 75,Healthcare,Northeast,Proposal,36500,Organic Search,Preston,2026-01-21,,23,No,Needs budget approval
+OPP-0076,Carolina Solar 76,Finance,Southwest,Demo Scheduled,63000,Organic Search,Preston,2026-03-16,,7,No,Confirm decision timeline
+OPP-0077,Queen City Dental 77,Finance,Northeast,Closed Lost,28000,Organic Search,Preston,2026-04-19,2026-05-06,17,No,Book discovery call
+OPP-0078,Redline Construction 78,Healthcare,Southwest,Prospecting,42000,LinkedIn,John,2026-06-02,,75,No,Needs budget approval
+OPP-0079,Smith Plumbing 79,Construction,Southwest,Closed Lost,67000,Event,John,2026-05-19,2026-07-24,66,No,Legal review
+OPP-0080,Oak Street Legal 80,Construction,Northeast,Prospecting,32000,Cold Call,Maya,2026-05-28,,78,No,No response yet
+OPP-0081,Smith Plumbing 81,Home Services,Midwest,Closed Lost,26000,Event,Maya,2026-05-30,2026-07-27,58,No,Demo completed
+OPP-0082,Cedar Creek Realty 82,Finance,Southwest,Discovery,16000,Web Form,Chris,2026-02-11,,45,No,Book discovery call
+OPP-0083,Ironclad Security 83,Construction,West,Demo Scheduled,43000,Referral,Maya,2026-03-06,,44,No,Needs budget approval
+OPP-0084,Redline Construction 84,Construction,Northeast,Prospecting,69000,Event,John,2026-04-03,,82,No,Follow up on pricing
+OPP-0085,Crown Auto Group 85,IT Services,Northeast,Closed Lost,59000,Cold Call,John,2026-05-05,2026-05-23,18,No,Book discovery call
+OPP-0086,Blue Ridge SaaS 86,Legal,Southwest,Proposal,14500,Event,John,2026-02-27,,17,No,Legal review
+OPP-0087,Northstar Manufacturing 87,Legal,Southwest,Demo Scheduled,64500,Event,Sarah,2026-05-01,,34,No,Follow up on pricing
+OPP-0088,ABC Roofing 88,Finance,Midwest,Closed Won,38000,LinkedIn,Chris,2026-04-17,2026-06-02,46,Yes,No response yet
+OPP-0089,Northstar Manufacturing 89,Manufacturing,Southwest,Closed Won,60000,Partner,John,2026-05-18,2026-07-21,64,Yes,Confirm decision timeline
+OPP-0090,Greenway Landscaping 90,Construction,Midwest,Closed Lost,33500,Organic Search,Maya,2026-05-27,2026-07-18,52,No,Needs budget approval
+OPP-0091,BrightPath Finance 91,Real Estate,Southeast,Demo Scheduled,22000,Google Ads,Maya,2026-05-07,,7,No,Send proposal
+OPP-0092,Greenway Landscaping 92,Legal,Southeast,Proposal,61000,Google Ads,Maya,2026-01-04,,95,No,Legal review
+OPP-0093,Apex Remodeling 93,Home Services,West,Discovery,53500,Web Form,Preston,2026-01-21,,45,No,Send proposal
+OPP-0094,Blue Ridge SaaS 94,Healthcare,Southwest,Discovery,39500,Web Form,Sarah,2026-02-28,,14,No,Legal review
+OPP-0095,Prime Medical Billing 95,Real Estate,Southwest,Closed Lost,8500,LinkedIn,Sarah,2026-03-25,2026-04-04,10,No,Confirm decision timeline
+OPP-0096,Ironclad Security 96,IT Services,Southwest,Proposal,26000,Referral,Chris,2026-02-13,,25,No,Follow up on pricing
+OPP-0097,Redline Construction 97,Finance,West,Discovery,35500,Cold Call,Sarah,2026-04-28,,35,No,Send proposal
+OPP-0098,Oak Street Legal 98,Home Services,Midwest,Demo Scheduled,47000,Web Form,Sarah,2026-05-31,,41,No,Needs budget approval
+OPP-0099,Carolina Solar 99,Construction,Southwest,Closed Won,16500,Partner,John,2026-03-02,2026-04-22,51,Yes,Book discovery call
+OPP-0100,Piedmont Flooring 100,Real Estate,Northeast,Proposal,9000,LinkedIn,Sarah,2026-06-05,,66,No,Legal review
+OPP-0101,Carolina Solar 101,Home Services,Southeast,Negotiation,20500,Cold Call,Chris,2026-06-10,,15,No,Demo completed
+OPP-0102,Metro IT Services 102,IT Services,Northeast,Negotiation,14500,Web Form,Chris,2026-03-17,,44,No,Demo completed
+OPP-0103,Carolina Solar 103,Real Estate,Southeast,Proposal,37500,Event,Maya,2026-02-12,,35,No,Send proposal
+OPP-0104,ABC Roofing 104,Finance,West,Negotiation,31500,Partner,Preston,2026-04-12,,74,No,No response yet
+OPP-0105,Cedar Creek Realty 105,Construction,West,Proposal,36500,Partner,Chris,2026-05-30,,51,No,Demo completed
+OPP-0106,Carolina Solar 106,Manufacturing,Southeast,Closed Lost,31000,Event,Sarah,2026-06-15,2026-06-26,11,No,Book discovery call
+OPP-0107,Queen City Dental 107,Manufacturing,Southwest,Closed Won,41500,Referral,John,2026-05-07,2026-05-24,17,Yes,Needs budget approval
+OPP-0108,Crown Auto Group 108,Manufacturing,Midwest,Proposal,22500,Referral,Preston,2026-04-17,,86,No,Demo completed
+OPP-0109,Prime Medical Billing 109,Real Estate,Southeast,Discovery,59500,Referral,Maya,2026-03-02,,49,No,Legal review
+OPP-0110,Crown Auto Group 110,Construction,Southeast,Discovery,18500,Organic Search,John,2026-04-27,,14,No,Confirm decision timeline
+OPP-0111,Lakeview Insurance 111,IT Services,Northeast,Closed Lost,29000,Organic Search,John,2026-01-18,2026-04-01,73,No,Follow up on pricing
+OPP-0112,Northstar Manufacturing 112,Finance,Northeast,Closed Won,3000,Google Ads,Preston,2026-03-12,2026-04-02,21,Yes,Book discovery call
+OPP-0113,Elite HVAC 113,Legal,Southwest,Negotiation,48500,Partner,Chris,2026-03-02,,78,No,Send proposal
+OPP-0114,Piedmont Flooring 114,Construction,West,Negotiation,63500,Referral,John,2026-04-25,,49,No,No response yet
+OPP-0115,Greenway Landscaping 115,Healthcare,Southwest,Proposal,6500,Web Form,Maya,2026-01-16,,64,No,Send proposal
+OPP-0116,Lakeview Insurance 116,Real Estate,Southwest,Closed Won,44000,Referral,Chris,2026-06-05,2026-06-26,21,Yes,Legal review
+OPP-0117,Northstar Manufacturing 117,IT Services,Southwest,Demo Scheduled,58000,Referral,Maya,2026-01-26,,92,No,Confirm decision timeline
+OPP-0118,Apex Remodeling 118,Finance,Midwest,Demo Scheduled,61000,Referral,Sarah,2026-04-13,,56,No,No response yet
+OPP-0119,Prime Medical Billing 119,Legal,West,Prospecting,13500,Referral,Preston,2026-01-24,,58,No,Demo completed
+OPP-0120,Elite HVAC 120,Finance,West,Negotiation,55500,Web Form,John,2026-04-01,,88,No,Demo completed
+OPP-0121,Piedmont Flooring 121,Healthcare,Midwest,Prospecting,67500,Event,Chris,2026-02-24,,22,No,Demo completed
+OPP-0122,Northstar Manufacturing 122,Construction,West,Prospecting,38500,Web Form,John,2026-05-27,,31,No,Book discovery call
+OPP-0123,Metro IT Services 123,Legal,West,Discovery,42500,Cold Call,Maya,2026-03-28,,47,No,Send proposal
+OPP-0124,Ironclad Security 124,Manufacturing,Southwest,Prospecting,6500,Organic Search,John,2026-01-24,,70,No,Follow up on pricing
+OPP-0125,Queen City Dental 125,Legal,West,Demo Scheduled,44500,Referral,Preston,2026-05-26,,79,No,Send proposal
+OPP-0126,Greenway Landscaping 126,Finance,Northeast,Discovery,57000,Event,Chris,2026-05-05,,80,No,Send proposal
+OPP-0127,BrightPath Finance 127,Finance,Southeast,Discovery,17000,Event,Sarah,2026-03-14,,89,No,Needs budget approval
+OPP-0128,Summit Logistics 128,Legal,Midwest,Closed Lost,10000,LinkedIn,John,2026-01-02,2026-01-31,29,No,Demo completed
+OPP-0129,Ironclad Security 129,IT Services,West,Prospecting,66500,Google Ads,Chris,2026-04-21,,25,No,Demo completed
+OPP-0130,Smith Plumbing 130,Real Estate,West,Prospecting,8000,Event,Maya,2026-04-22,,5,No,Needs budget approval
+OPP-0131,ABC Roofing 131,Real Estate,Northeast,Negotiation,56000,Web Form,Chris,2026-03-16,,17,No,No response yet
+OPP-0132,Ironclad Security 132,Healthcare,Southwest,Closed Won,49000,Referral,John,2026-01-23,2026-03-22,58,Yes,Demo completed
+OPP-0133,Summit Logistics 133,Real Estate,Midwest,Discovery,24500,Referral,Sarah,2026-01-20,,68,No,Confirm decision timeline
+OPP-0134,Smith Plumbing 134,Legal,Southwest,Prospecting,35500,Google Ads,Maya,2026-02-20,,25,No,No response yet
+OPP-0135,Redline Construction 135,Healthcare,Southwest,Negotiation,44000,Google Ads,Maya,2026-06-10,,43,No,Legal review
+OPP-0136,Redline Construction 136,Construction,Southeast,Closed Won,10000,Referral,John,2026-04-01,2026-06-07,67,Yes,Legal review
+OPP-0137,Redline Construction 137,Construction,Southwest,Prospecting,14500,Web Form,Chris,2026-06-07,,79,No,Confirm decision timeline
+OPP-0138,Redline Construction 138,Healthcare,Midwest,Discovery,63500,Cold Call,Preston,2026-05-09,,22,No,Follow up on pricing
+OPP-0139,Prime Medical Billing 139,Real Estate,Midwest,Prospecting,59000,Google Ads,Maya,2026-04-23,,70,No,Needs budget approval
+OPP-0140,Northstar Manufacturing 140,Manufacturing,Midwest,Proposal,9500,Partner,John,2026-06-11,2026-09-04,85,No,Follow up on pricing
+OPP-0141,Queen City Dental 141,Healthcare,Midwest,Discovery,21000,Web Form,Chris,2026-03-31,,42,No,Needs budget approval
+OPP-0142,Greenway Landscaping 142,Real Estate,Southeast,Proposal,45000,Referral,John,2026-02-02,,88,No,Legal review
+OPP-0143,Piedmont Flooring 143,Legal,Northeast,Discovery,30000,Organic Search,Preston,2026-03-29,,65,No,Legal review
+OPP-0144,Apex Remodeling 144,Legal,West,Closed Won,15500,Cold Call,Maya,2026-05-10,2026-07-21,72,Yes,Follow up on pricing
+OPP-0145,Prime Medical Billing 145,IT Services,Southwest,Prospecting,24000,Web Form,Chris,2026-04-23,,8,No,Legal review
+OPP-0146,Carolina Solar 146,Home Services,Northeast,Negotiation,60000,Organic Search,John,2026-03-01,,71,No,No response yet
+OPP-0147,Metro IT Services 147,IT Services,West,Demo Scheduled,39000,Web Form,Sarah,2026-04-08,,67,No,Legal review
+OPP-0148,BrightPath Finance 148,Healthcare,Midwest,Prospecting,64500,Referral,Preston,2026-04-06,,73,No,Follow up on pricing
+OPP-0149,Piedmont Flooring 149,Home Services,Midwest,Discovery,68500,Referral,Preston,2026-02-07,,58,No,Needs budget approval
+OPP-0150,Smith Plumbing 150,Real Estate,Northeast,Prospecting,67000,Web Form,Preston,2026-04-06,,33,No,Demo completed
+OPP-0151,Carolina Solar 151,Home Services,Northeast,Closed Lost,45500,Cold Call,Maya,2026-02-07,2026-02-27,20,No,No response yet
+OPP-0152,Queen City Dental 152,Manufacturing,Southeast,Proposal,13000,Organic Search,John,2026-01-05,,35,No,Confirm decision timeline
+OPP-0153,Smith Plumbing 153,Healthcare,Southwest,Discovery,9000,Event,Chris,2026-03-03,,56,No,Book discovery call
+OPP-0154,ABC Roofing 154,Real Estate,Northeast,Proposal,33500,Web Form,Chris,2026-02-06,,40,No,Needs budget approval
+OPP-0155,Northstar Manufacturing 155,Construction,Southwest,Discovery,13500,Referral,Maya,2026-05-15,,49,No,Book discovery call
+OPP-0156,Prime Medical Billing 156,IT Services,Southeast,Proposal,50500,Partner,Chris,2026-03-06,,5,No,Demo completed
+OPP-0157,Redline Construction 157,Home Services,Northeast,Prospecting,48000,Google Ads,Sarah,2026-05-20,,46,No,Send proposal
+OPP-0158,Elite HVAC 158,IT Services,Southeast,Negotiation,61500,Organic Search,John,2026-01-10,,40,No,Legal review
+OPP-0159,Summit Logistics 159,Finance,Midwest,Proposal,72500,Cold Call,Preston,2026-05-02,,35,No,Demo completed
+OPP-0160,Ironclad Security 160,Real Estate,Northeast,Discovery,50000,Event,Maya,2026-04-22,,54,No,No response yet
+OPP-0161,Smith Plumbing 161,Manufacturing,West,Demo Scheduled,69000,Web Form,Sarah,2026-03-10,,13,No,Legal review
+OPP-0162,Carolina Solar 162,Home Services,West,Discovery,13000,LinkedIn,Maya,2026-03-25,,87,No,Follow up on pricing
+OPP-0163,Greenway Landscaping 163,Finance,Southeast,Negotiation,47500,Partner,Preston,2026-04-25,,8,No,Needs budget approval
+OPP-0164,Elite HVAC 164,Legal,Southeast,Demo Scheduled,23000,Event,Sarah,2026-01-08,,21,No,Demo completed
+OPP-0165,Prime Medical Billing 165,Real Estate,Southwest,Demo Scheduled,7000,Event,Preston,2026-06-04,,22,No,Follow up on pricing
+OPP-0166,Piedmont Flooring 166,Healthcare,Southeast,Proposal,53500,LinkedIn,Sarah,2026-03-22,,86,No,No response yet
+OPP-0167,Redline Construction 167,IT Services,West,Proposal,74500,LinkedIn,John,2026-01-31,,36,No,No response yet
+OPP-0168,Redline Construction 168,Healthcare,Midwest,Discovery,20000,Google Ads,John,2026-01-19,,60,No,Send proposal
+OPP-0169,Prime Medical Billing 169,IT Services,Southeast,Proposal,40000,Google Ads,Sarah,2026-03-18,,23,No,Follow up on pricing
+OPP-0170,Northstar Manufacturing 170,Legal,West,Discovery,66000,Partner,Preston,2026-01-07,,49,No,Send proposal
+OPP-0171,Lakeview Insurance 171,Healthcare,Northeast,Discovery,64000,Web Form,John,2026-05-15,,55,No,Send proposal
+OPP-0172,Queen City Dental 172,Manufacturing,West,Demo Scheduled,69000,Google Ads,Preston,2026-03-30,,19,No,Send proposal
+OPP-0173,Piedmont Flooring 173,Real Estate,West,Proposal,41500,Partner,John,2026-02-12,,23,No,Send proposal
+OPP-0174,Crown Auto Group 174,Healthcare,West,Discovery,73500,LinkedIn,Sarah,2026-03-12,,19,No,Follow up on pricing
+OPP-0175,Smith Plumbing 175,Construction,West,Prospecting,46000,Cold Call,John,2026-05-25,,8,No,Confirm decision timeline
+OPP-0176,Cedar Creek Realty 176,Finance,Midwest,Closed Won,56000,Cold Call,Maya,2026-06-08,2026-08-31,84,Yes,Confirm decision timeline
+OPP-0177,Metro IT Services 177,Home Services,Southwest,Closed Won,54500,Referral,Maya,2026-03-18,2026-05-18,61,Yes,No response yet
+OPP-0178,Prime Medical Billing 178,Manufacturing,Northeast,Discovery,21000,Partner,John,2026-03-22,,94,No,Send proposal
+OPP-0179,Piedmont Flooring 179,Legal,Southeast,Discovery,62500,Event,Preston,2026-02-01,,37,No,Legal review
+OPP-0180,Apex Remodeling 180,IT Services,Northeast,Closed Lost,56500,Partner,Maya,2026-03-05,2026-03-28,23,No,No response yet
+OPP-0181,BrightPath Finance 181,Home Services,Northeast,Demo Scheduled,42000,Referral,Sarah,2026-05-08,,5,No,Demo completed
+OPP-0182,Carolina Solar 182,Construction,Southeast,Prospecting,39000,Event,Maya,2026-05-07,,79,No,Follow up on pricing
+OPP-0183,Ironclad Security 183,Construction,West,Closed Won,49500,Cold Call,Chris,2026-04-14,2026-06-02,49,Yes,Confirm decision timeline
+OPP-0184,Northstar Manufacturing 184,Finance,West,Demo Scheduled,39500,Event,Chris,2026-01-19,,52,No,Send proposal
+OPP-0185,Prime Medical Billing 185,Legal,Northeast,Prospecting,15000,Partner,Chris,2026-04-11,,50,No,Needs budget approval
+OPP-0186,BrightPath Finance 186,Home Services,Northeast,Proposal,8500,Partner,Chris,2026-01-10,,20,No,Follow up on pricing
+OPP-0187,Lakeview Insurance 187,Real Estate,West,Discovery,43500,LinkedIn,Chris,2026-02-11,,53,No,No response yet
+OPP-0188,Blue Ridge SaaS 188,Manufacturing,West,Negotiation,41000,Partner,John,2026-05-02,,5,No,Book discovery call
+OPP-0189,Elite HVAC 189,Home Services,Northeast,Proposal,36500,Organic Search,Chris,2026-05-29,,76,No,Needs budget approval
+OPP-0190,Apex Remodeling 190,Manufacturing,Northeast,Negotiation,34000,Referral,Maya,2026-01-09,,76,No,Confirm decision timeline
+OPP-0191,BrightPath Finance 191,IT Services,West,Demo Scheduled,63000,Google Ads,John,2026-01-16,,93,No,No response yet
+OPP-0192,Oak Street Legal 192,Home Services,Northeast,Proposal,43000,Partner,Sarah,2026-02-14,,61,No,Legal review
+OPP-0193,Cedar Creek Realty 193,Real Estate,Southwest,Proposal,31500,Organic Search,John,2026-03-18,,39,No,Legal review
+OPP-0194,Queen City Dental 194,Finance,Southeast,Discovery,72500,Partner,John,2026-04-08,,53,No,Send proposal
+OPP-0195,Summit Logistics 195,Finance,West,Discovery,59500,Organic Search,John,2026-03-07,,64,No,Follow up on pricing
+OPP-0196,Piedmont Flooring 196,Construction,Southeast,Prospecting,33500,Organic Search,Maya,2026-03-04,,9,No,Demo completed
+OPP-0197,Greenway Landscaping 197,Home Services,Southwest,Negotiation,15500,Google Ads,Sarah,2026-02-05,,3,No,Legal review
+OPP-0198,Northstar Manufacturing 198,Construction,Northeast,Discovery,10500,Organic Search,Maya,2026-01-23,,86,No,Follow up on pricing
+OPP-0199,Carolina Solar 199,Construction,Southeast,Closed Lost,7500,Google Ads,John,2026-04-12,2026-06-17,66,No,Send proposal
+OPP-0200,Queen City Dental 200,Home Services,Midwest,Closed Lost,45500,Event,Sarah,2026-03-14,2026-05-14,61,No,Send proposal
+OPP-0201,ABC Roofing 201,Real Estate,Midwest,Discovery,61500,Google Ads,Chris,2026-06-15,,35,No,Confirm decision timeline
+OPP-0202,Blue Ridge SaaS 202,Legal,Northeast,Closed Won,54500,Partner,Maya,2026-04-20,,68,Yes,Demo completed
+OPP-0203,Redline Construction 203,Finance,Midwest,Closed Lost,3500,Organic Search,John,2026-03-08,2026-04-29,52,No,Book discovery call
+OPP-0204,Metro IT Services 204,Manufacturing,West,Discovery,49000,Referral,John,2026-03-02,,10,No,Send proposal
+OPP-0205,Piedmont Flooring 205,Legal,Southwest,Proposal,40500,Organic Search,Sarah,2026-04-05,,81,No,No response yet
+OPP-0206,Northstar Manufacturing 206,IT Services,Northeast,Negotiation,50500,Event,Chris,2026-04-17,,92,No,Send proposal
+OPP-0207,BrightPath Finance 207,IT Services,West,Closed Won,70500,Referral,Chris,2026-04-03,,12,Yes,Follow up on pricing
+OPP-0208,Lakeview Insurance 208,Home Services,Southeast,Prospecting,69500,Organic Search,Chris,2026-04-24,,17,No,No response yet
+OPP-0209,Redline Construction 209,Construction,West,Closed Won,61000,Web Form,Maya,2026-02-03,2026-04-12,68,Yes,Legal review
+OPP-0210,Lakeview Insurance 210,Healthcare,Southeast,Negotiation,53500,Organic Search,Maya,2026-03-07,,3,No,Demo completed
+OPP-0211,Elite HVAC 211,Finance,Southwest,Negotiation,72000,Event,Sarah,2026-01-16,,11,No,Follow up on pricing
+OPP-0212,Ironclad Security 212,Manufacturing,Southeast,Closed Won,56500,Event,Chris,2026-04-06,2026-05-27,51,Yes,Follow up on pricing
+OPP-0213,BrightPath Finance 213,Legal,Northeast,Proposal,47500,Web Form,Preston,2026-01-31,,25,No,Book discovery call
+OPP-0214,Piedmont Flooring 214,IT Services,Southwest,Closed Lost,62000,Web Form,John,2026-05-20,2026-07-16,57,No,Follow up on pricing
+OPP-0215,Crown Auto Group 215,Construction,Northeast,Discovery,17000,Web Form,Sarah,2026-01-09,,87,No,Send proposal
+OPP-0216,Piedmont Flooring 216,Construction,Southwest,Prospecting,7000,Cold Call,Maya,2026-04-25,,79,No,Confirm decision timeline
+OPP-0217,Piedmont Flooring 217,Real Estate,West,Proposal,10000,LinkedIn,Chris,2026-02-05,,67,No,Demo completed
+OPP-0218,Carolina Solar 218,Finance,Southeast,Discovery,21000,Web Form,Chris,2026-05-14,,31,No,Follow up on pricing
+OPP-0219,Prime Medical Billing 219,Manufacturing,West,Proposal,57500,Cold Call,John,2026-05-23,,66,No,Needs budget approval
+OPP-0220,Piedmont Flooring 220,IT Services,Midwest,Demo Scheduled,41000,Event,Sarah,2026-04-07,,26,No,No response yet
+OPP-0221,Ironclad Security 221,IT Services,Midwest,Closed Lost,74500,Google Ads,Sarah,2026-04-16,2026-06-11,56,No,Demo completed
+OPP-0222,Elite HVAC 222,Finance,Southwest,Proposal,60500,Organic Search,Chris,2026-04-05,,14,No,Book discovery call
+OPP-0223,Cedar Creek Realty 223,IT Services,Midwest,Closed Won,27000,Organic Search,John,2026-05-31,2026-09-03,95,Yes,Book discovery call
+OPP-0224,Crown Auto Group 224,IT Services,Southwest,Discovery,27000,Organic Search,Sarah,2026-01-31,,64,No,Demo completed
+OPP-0225,Prime Medical Billing 225,Home Services,Southwest,Closed Won,51500,Partner,Preston,2026-04-30,2026-07-10,71,Yes,No response yet
+OPP-0226,Lakeview Insurance 226,IT Services,Northeast,Closed Won,43500,Partner,Preston,2026-02-22,2026-04-13,50,Yes,Legal review
+OPP-0227,Apex Remodeling 227,IT Services,Southwest,Proposal,56000,Organic Search,Chris,2026-03-17,,22,No,Confirm decision timeline
+OPP-0228,Redline Construction 228,Legal,Midwest,Demo Scheduled,46000,Event,Sarah,2026-03-07,,65,No,Follow up on pricing
+OPP-0229,BrightPath Finance 229,Construction,Southeast,Negotiation,65500,Cold Call,Preston,2026-02-17,,72,No,Book discovery call
+OPP-0230,ABC Roofing 230,IT Services,West,Demo Scheduled,32500,Google Ads,Maya,2026-01-18,,93,No,Demo completed
+OPP-0231,Northstar Manufacturing 231,Manufacturing,Southeast,Prospecting,64500,Cold Call,Preston,2026-05-05,,5,No,Legal review
+OPP-0232,Metro IT Services 232,Healthcare,Southeast,Proposal,39500,Web Form,Chris,2026-01-05,,67,No,Follow up on pricing
+OPP-0233,Ironclad Security 233,Healthcare,Midwest,Discovery,70000,LinkedIn,Maya,2026-03-06,,48,No,No response yet
+OPP-0234,Elite HVAC 234,Healthcare,Southwest,Proposal,31500,Referral,Maya,2026-03-18,,90,No,Needs budget approval
+OPP-0235,Smith Plumbing 235,Home Services,Southwest,Proposal,10000,Google Ads,John,2026-06-13,,4,No,Send proposal
+OPP-0236,Oak Street Legal 236,Construction,Southeast,Closed Won,8000,Event,John,2026-02-28,2026-03-30,30,Yes,Book discovery call
+OPP-0237,Ironclad Security 237,Healthcare,Midwest,Prospecting,43000,Google Ads,Sarah,2026-01-05,,29,No,Confirm decision timeline
+OPP-0238,Queen City Dental 238,Healthcare,West,Proposal,52500,Web Form,John,2026-05-19,,45,No,Book discovery call
+OPP-0239,Apex Remodeling 239,Construction,Midwest,Prospecting,32500,Web Form,Maya,2026-01-20,,46,No,No response yet
+OPP-0240,Lakeview Insurance 240,Manufacturing,Southeast,Discovery,73500,Google Ads,Chris,2026-04-07,,58,No,Legal review
+OPP-0241,Ironclad Security 241,Legal,Southwest,Closed Won,12000,Google Ads,John,2026-01-22,2026-02-28,37,Yes,Demo completed
+OPP-0242,Blue Ridge SaaS 242,Legal,Southeast,Prospecting,3500,Partner,Sarah,2026-03-20,,59,No,Needs budget approval
+OPP-0243,Northstar Manufacturing 243,Healthcare,West,Negotiation,74000,Referral,Chris,2026-05-12,,55,No,Demo completed
+OPP-0244,Smith Plumbing 244,IT Services,West,Closed Won,4500,Web Form,Chris,2026-03-16,2026-05-10,55,Yes,Follow up on pricing
+OPP-0245,Oak Street Legal 245,Home Services,Northeast,Negotiation,24500,LinkedIn,Preston,2026-02-05,,37,No,Follow up on pricing
+OPP-0246,Piedmont Flooring 246,Home Services,West,Demo Scheduled,56500,Referral,Chris,2026-03-18,,64,No,Confirm decision timeline
+OPP-0247,Apex Remodeling 247,Manufacturing,Midwest,Demo Scheduled,20000,Web Form,Maya,2026-03-19,,3,No,Demo completed
+OPP-0248,Cedar Creek Realty 248,Real Estate,Northeast,Demo Scheduled,20000,Organic Search,Maya,2026-03-18,,44,No,Demo completed
+OPP-0249,Ironclad Security 249,Real Estate,Southeast,Discovery,65500,Partner,Chris,2026-05-28,,34,No,Confirm decision timeline
+OPP-0250,Redline Construction 250,IT Services,Southwest,Proposal,72500,Cold Call,John,2026-02-16,,90,No,Send proposal
