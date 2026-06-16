@@ -1,6 +1,3 @@
-# RevOps-Portfolio
-RevOps Practice Projects
-
 # AI Pipeline Health Reporter
 
 ## Overview
