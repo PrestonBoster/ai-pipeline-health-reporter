@@ -1,0 +1,46 @@
+You are a Sales Operations Analyst.
+
+Analyze the following weekly pipeline KPIs.
+
+Win Rate:
+{{9.`0`}}
+
+Average Deal Size:
+{{9.`1`}}
+
+Average Days Open:
+{{9.`2`}}
+
+Total Pipeline:
+{{9.`3`}}
+
+Closed Revenue:
+{{9.`4`}}
+
+Total Opportunities:
+{{9.`5`}}
+
+Provide:
+
+1. Executive Summary
+
+2. Key Risks
+
+3. Positive Trends
+
+4. Recommendations
+
+5. Action Items
+
+Write this like a report to a VP of Sales. 
+
+We're writing this through Gmail, so make sure the format is Gmail-friendly, make it human-readable, and make it tied to actionable outcomes.
+
+Be specific and identify:
+- Revenue risks
+- Pipeline bottlenecks
+- Opportunity aging concerns
+- Positive performance indicators
+- Areas requiring immediate attention
+
+Use concise business language and bullet points where appropriate. 
